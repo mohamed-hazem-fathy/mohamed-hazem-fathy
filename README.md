@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @mohamed-hazem-fathy<br>- 👀 I’m interested in web development, especially Frontend technologies like Nuxt.js and Vue.js.<br>- 🌱 I’m currently learning advanced frontend techniques[react] and backend integration for scalable web applications.<br>- 💞️ I’m looking to collaborate on open-source frontend projects, especially those using modern JavaScript frameworks.<br>- 📫 How to reach me: You can reach me via email at mohamedhazemdev@gmail.com or through my GitHub profile.<br>- ⚡ Fun fact: I love working on memory games and interactive web experiences.
+👋 Hi, I’m @mohamed-hazem-fathy<br>- 👀 I’m interested in web development, especially Frontend technologies like Next.js,Nuxt.js and React.js,Vue.js.<br>- 🌱 I’m currently learning backend integration for scalable web applications.<br>- 💞️ I’m looking to collaborate on open-source frontend projects, especially those using modern JavaScript frameworks.<br>- 📫 How to reach me: You can reach me via email at mohamedhazemdev@gmail.com or through my GitHub profile.<br>- ⚡ Fun fact: I love working on memory games and interactive web experiences.
 
 
 ## 🌐 Socials:
