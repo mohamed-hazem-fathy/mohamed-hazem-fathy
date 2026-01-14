@@ -1,5 +1,41 @@
-# 💫 About Me:
-👋 Hi, I’m @mohamed-hazem-fathy<br>- 👀 I’m interested in web development, especially Frontend technologies like Next.js,Nuxt.js and React.js,Vue.js.<br>- 🌱 I’m currently learning backend integration for scalable web applications.<br>- 💞️ I’m looking to collaborate on open-source frontend projects, especially those using modern JavaScript frameworks.<br>- 📫 How to reach me: You can reach me via email at mohamedhazemdev@gmail.com or through my GitHub profile.<br>- ⚡ Fun fact: I love working on memory games and interactive web experiences.
+# :
+
+👨‍💻 About Me
+
+I'm Mohamed Hazem, a Full-Stack Web Developer specializing in building scalable, production-ready web applications with modern technologies.
+
+I have strong hands-on experience in developing complete end-to-end systems, including:
+
+High-performance Frontend applications using Next.js & React.js
+
+Robust Backend systems built with Laravel
+
+RESTful APIs, authentication, and database design
+
+Admin Dashboards for managing content, users, and business logic
+
+🚀 I recently delivered a real-world full-stack project that includes:
+
+A modern Next.js website
+
+A secure Laravel backend
+
+A fully functional Admin Dashboard
+
+Seamless frontend–backend integration
+
+I focus on writing clean, maintainable code, following best practices in performance, security, and scalability. I'm always eager to learn, improve, and work on impactful projects.
+
+💼 Open to: Full-time roles, freelance work, and collaborative projects
+📫 Contact: mohamedhazemdev@gmail.com
+
+🛠 Tech Stack
+
+Frontend: Next.js, React.js, Vue.js, Nuxt.js, Tailwind CSS
+Backend: Laravel, REST APIs
+Database: MySQL
+Tools: Git, GitHub, Postman
+Architecture: MVC, API-driven systems, Dashboard-based platforms
 
 
 ## 🌐 Socials:
