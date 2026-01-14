@@ -1,6 +1,4 @@
-# :
-
-👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm Mohamed Hazem, a Full-Stack Web Developer specializing in building scalable, production-ready web applications with modern technologies.
 
